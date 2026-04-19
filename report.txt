@@ -1,0 +1,3 @@
+9000.0,food,goos,income
+9000.0,food,mothy,expense
+70000.0,salary,jobs,income
